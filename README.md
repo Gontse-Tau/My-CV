@@ -1,2 +1,18 @@
-# My-CV
-CV for Mining Jobs Gontse Tau
+# Gontse Jerry Tau
+ADT Operator | General Worker | North West, SA
+
+## About Me
+Safety-focused and reliable. 9 years driving experience with Code 10 License + PDP and ADT Operator License.
+
+## Skills
+- ADT Operation
+- Manual Labor & Maintenance
+- Loading and Offloading
+- MS Word, MS Excel, MS Windows
+
+## Contact
+📧 mrgjstars@gmail.com | 📞 063 053 6795
+📍 Ramokokastad, North West
+
+## Experience
+Looking for opportunities in Mining and Heavy Equipment Operations
