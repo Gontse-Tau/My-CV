@@ -1,5 +1,5 @@
 # Gontse Jerry Tau
-ADT Operator | General Worker | North West, SA
+ADT Operator | Code 10 + PDP | General Worker | North West, SA
 
 ## About Me
 Safety-focused and reliable. 9 years driving experience with Code 10 License + PDP and ADT Operator License.
