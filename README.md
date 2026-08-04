@@ -11,7 +11,7 @@ Safety-focused and reliable. 9 years driving experience with Code 10 License + P
 - Python Programming 
 - MS Word, MS Excel, MS Windows
 
-##Projects
+## Projects
 
 ADT Daily Safety Checklist - Python
 - Built a command-line app to digitize daily ADT safety inspections
