@@ -23,4 +23,6 @@ ADT Daily Safety Checklist - Python
     💻 github.com/Gontse-Tau
 
 ## Experience
-Looking for opportunities in Mining and Heavy Equipment Operations
+    Volunteer - Handyman
+    Baphalane Primary School | Jan 2026 - Present
+    - Maintenance, cleaning, loading/offloading. Followed SHEQ procedures.
