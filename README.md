@@ -8,6 +8,7 @@ Safety-focused and reliable. 9 years driving experience with Code 10 License + P
 - ADT Operation
 - Manual Labor & Maintenance
 - Loading and Offloading
+- Python Programming 
 - MS Word, MS Excel, MS Windows
 
 ## Contact
