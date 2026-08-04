@@ -21,7 +21,8 @@ ADT Daily Safety Checklist - Python
     📧 mrgjstars@gmail.com | 📞 063 053 6795
     📍 Ramokokastad, North West
     💻 github.com/Gontse-Tau
-
+## Download CV
+[Download PDF](Gontse_Jerry_Tau_CV.pdf)
 ## Experience
     Volunteer - Handyman
     Baphalane Primary School | Jan 2026 - Present
