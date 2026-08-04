@@ -2,8 +2,8 @@
 ADT Operator | Code 10 + PDP | General Worker | North West, SA
 
 ## About Me
-Safety-focused and reliable. 9 years driving experience with Code 10 License + PDP and ADT Operator License.
-
+Safety-focused and reliable. 9 years driving experience with Code 10 License + PDP and ADT Operator License. 
+Built a Python safety checklist app to digitize ADT inspections and improve SHEQ compliance.
 ## Skills
 - ADT Operation
 - Manual Labor & Maintenance
